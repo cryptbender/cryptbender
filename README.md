@@ -1,4 +1,4 @@
-<h1 align="center">Hey wassup? 👋 Welcome 🚀</h1>
+<h1 align="center">Hey wassup?👋 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Community+Strategist+🚀;Web3+Builder+💎;Crypto+Enthusiast+🔥;Telegram+Growth+Expert+⚡" />
